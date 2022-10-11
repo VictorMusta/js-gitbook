@@ -1,4 +1,4 @@
-# Evie's Accelerated JS Tutorial
+# Evie's Accelerated NodeJS Tutorial
 
 Keep being told to "Go Learn JavaScript"? Tired of being called a noob? This guide will speed you through some important JavaScript basics because we know you're a smart cookie and you can take it.
 
